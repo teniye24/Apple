@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36d6214a.css",
-    "main.js": "/static/js/main.304f4c2f.js",
+    "main.js": "/static/js/main.2c1d7be4.js",
     "static/media/hero_iphone15pro__i70z9oz3hj2i_medium_2x.jpg": "/static/media/hero_iphone15pro__i70z9oz3hj2i_medium_2x.7c32bdd0983787613630.jpg",
     "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_small.jpg": "/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_small.ad7c70b8f246eb7372d2.jpg",
     "static/media/hero_imac__dqh65mwjj04m_large.jpg": "/static/media/hero_imac__dqh65mwjj04m_large.b2cb0f26fb3d7d2176f8.jpg",
@@ -13,10 +13,10 @@
     "static/media/promo_airpods_pro_order__d8xv36p4uwae_small.jpg": "/static/media/promo_airpods_pro_order__d8xv36p4uwae_small.17963623b4847534870e.jpg",
     "index.html": "/index.html",
     "main.36d6214a.css.map": "/static/css/main.36d6214a.css.map",
-    "main.304f4c2f.js.map": "/static/js/main.304f4c2f.js.map"
+    "main.2c1d7be4.js.map": "/static/js/main.2c1d7be4.js.map"
   },
   "entrypoints": [
     "static/css/main.36d6214a.css",
-    "static/js/main.304f4c2f.js"
+    "static/js/main.2c1d7be4.js"
   ]
 }
